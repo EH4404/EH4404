@@ -1,16 +1,13 @@
-### Hi there 👋
+#EH4404
 
-<!--
-**EH4404/EH4404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ติดตั้งคำสั่งก่อนนะ😽❤️
 
-Here are some ideas to get you started:
+FB : สมชาย สบายจัง
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😽 Install Script ❤️
+
+git clone https://github.com/EH4404/EH4404
+
+cd EH4404
+
+python mk.py
